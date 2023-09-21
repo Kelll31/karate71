@@ -6481,3 +6481,6 @@ h6 {
   padding-top: 166px;
   margin: auto;
 }
+.center-row {
+  justify-content: space-evenly;
+}
